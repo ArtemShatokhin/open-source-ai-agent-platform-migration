@@ -53,3 +53,5 @@ kortix ship
 ```
 
 `kortix init` creates `kortix.yaml` plus your agents, skills and runtime config. `kortix ship` pushes the repo and brings it live. The source is public at [Kortix on GitHub](https://github.com/kortix-ai/suna), where the README carries the quickstart, the session loop and one agent's definition. If you would rather start with one job than a migration plan, the [repo map on the campaign site](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github) shows where each command lands.
+
+Newer guides on the site answer the questions this repository raises: [AI agent permissions and policy](https://opensourceaiagentplatform.com/ai-agent-permissions-and-policy) for what an agent may reach, [the enterprise deployment options](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-for-enterprises) a security review asks about, [moving a team off a hosted agent](https://opensourceaiagentplatform.com/migrate-from-a-hosted-ai-agent), and [builder or platform](https://opensourceaiagentplatform.com/open-source-ai-agent-builder-vs-platform).
