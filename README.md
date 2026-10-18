@@ -41,6 +41,7 @@ Kortix keeps six layers as text in one repo. Agents define who does the work, as
 - [From a framework to a platform](docs/from-a-framework-to-a-platform.md): what you stop building when a platform runs the agents.
 - [The migration checklist](docs/ai-agent-platform-migration-checklist.md): inventory, identity, connectors, models, data, cutover, rollback.
 - [What you own after migrating](docs/what-you-own-after-migrating.md): the six layers as files, sandboxes per session, credentials brokered server-side.
+- [From a solo agent to a team platform](docs/from-solo-agent-to-team-platform.md): why a team scales on the review gate, not agent count.
 
 ## Try it
 
