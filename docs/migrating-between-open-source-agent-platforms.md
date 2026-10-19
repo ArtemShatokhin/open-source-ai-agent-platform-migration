@@ -52,4 +52,4 @@ A second difference is what a session is. On Kortix a session is a unit of agent
 
 ## Notes on this comparison
 
-Facts for each rival come from that project's own repository, checked October 2026. Star counts, release status and prices change, so check them at the source before a purchase. Kortix self-host is free, and Kortix Cloud starts at $0 with 200 credits a month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool, as written on the [Kortix pricing page](https://kortix.com/pricing).
+Facts for each rival come from that project's own repository, checked October 2026. Star counts, release status and prices change, so check them at the source before a purchase. Kortix self-host is free, and Kortix Cloud starts at $0 with 500 credits a month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool, as written on the [Kortix pricing page](https://kortix.com/pricing).
